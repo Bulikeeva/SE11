@@ -1,4 +1,5 @@
 //учебная программа
+//Буликеева, 418, 2022
 #include <iostream>
 
 using namespace std;
